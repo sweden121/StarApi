@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ifmdjb9OvXEt37/UChOq9RPin91TopvN4ohlFy3JnkYZiBjVJdxSkErrRpxUHrQnl9dPeZ1fQC3lWWFWdKwBPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\StarApi\\StarApi\\StarApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mesquitabohm.adrian\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

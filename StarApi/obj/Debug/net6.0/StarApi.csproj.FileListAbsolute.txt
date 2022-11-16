@@ -1,0 +1,17 @@
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\bin\Debug\net6.0\StarApi.exe
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\bin\Debug\net6.0\StarApi.deps.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\bin\Debug\net6.0\StarApi.runtimeconfig.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\bin\Debug\net6.0\StarApi.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\bin\Debug\net6.0\StarApi.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\bin\Debug\net6.0\RestSharp.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.csproj.AssemblyReference.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.AssemblyInfoInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.AssemblyInfo.cs
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.csproj.CoreCompileInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.csproj.CopyComplete
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\refint\StarApi.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\StarApi.genruntimeconfig.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\StarApi\StarApi\obj\Debug\net6.0\ref\StarApi.dll
